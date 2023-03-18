@@ -1,0 +1,138 @@
+Mar 18 2023 09:55:57
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:55:58
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":171}
+
+Mar 18 2023 09:56:08
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:56:22
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:56:39
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:56:56
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:57:17
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:57:20
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:57:27
+{"Number":2,"Message":"filesize(): stat failed for \/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/y5xmaeupvr48\/fictional-university-new.local-20230318-095557-yv0u7i.wpress","File":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":231}
+
+Mar 18 2023 09:58:26
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:58:27
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":171}
+
+Mar 18 2023 09:58:37
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:58:53
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:59:06
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:59:23
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:59:47
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 09:59:52
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:00:17
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:00:19
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:00:35
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:00:58
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:01:02
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:01:18
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:01:35
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:01:59
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:02:04
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:02:30
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:02:40
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:02:44
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:03:00
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:03:20
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:03:26
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:03:51
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:03:55
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:04:12
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:04:23
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:04:29
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:04:53
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:04:57
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:05:14
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:05:31
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:05:56
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:06:00
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:06:17
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:06:33
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Mar 18 2023 10:06:47
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/Volumes\/Projects\/Software Development\/Projects\/General Dev\/fictional-university-new\/app\/public\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+

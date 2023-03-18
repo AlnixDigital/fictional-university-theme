@@ -1,0 +1,32 @@
+<?php
+get_header();
+pageBanner(array(
+  'title' => 'Our Campuses',
+  'subtitle' => 'We have several conveniently located campuses.'
+));
+?>
+
+
+<div class="container container--narrow page-section">
+  <div class="acf-map">
+    <?php
+    while (have_posts()) {
+      the_post();
+      $mapLocation = get_field('map_location');
+      $mapLocation['lat'] = 28.116804905625536;
+      $mapLocation['lng'] = -82.44807676284327;
+    ?>
+      <div data-lat="<?php echo $mapLocation['lat'] ?>" data-lng="<?php echo $mapLocation['lng'] ?>" class="marker">
+        <h3><a href="<?php the_permalink(); ?>"><?php the_title() ?></a></h3>
+        <?php echo $mapLocation['address'] ?>
+      </div>
+    <?php } ?>
+  </div>
+
+</div>
+
+
+<?php
+
+get_footer();
+?>
