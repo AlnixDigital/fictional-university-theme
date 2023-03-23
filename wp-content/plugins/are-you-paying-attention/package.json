@@ -8,6 +8,7 @@
 		"start": "wp-scripts start src/index.js src/frontend.js"
 	},
 	"dependencies": {
-		"@wordpress/scripts": "^26.0.0"
+		"@wordpress/scripts": "^26.0.0",
+		"react-color": "^2.19.3"
 	}
 }
